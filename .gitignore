@@ -1,0 +1,5 @@
+.docker-sync/
+.DS_Store
+target/
+.unison*
+node_modules/
